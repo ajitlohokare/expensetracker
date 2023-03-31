@@ -21,11 +21,11 @@ public class MasterController {
 		List<Expense> expense = expenseService.findall();
 		mav.addObject("expenses", expenses);
 		return mav;
-<<<<<<< HEAD
+
 		/*neeraj added and more coments ok*/
-=======
+
 		/* Ajit added*/
->>>>>>> branch 'main' of https://github.com/ajitlohokare/expensetracker.git
+
 		
 		
 		
