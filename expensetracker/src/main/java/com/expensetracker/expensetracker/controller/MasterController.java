@@ -22,12 +22,7 @@ public class MasterController {
 		mav.addObject("expenses", expenses);
 		return mav;
 
-		/*neeraj added and more coments ok*/
 
-		/* Ajit added*/
-
-		
-		
 		
 		/*ModelAndView mav = new ModelAndView("home");
 		mav.addObject("message", "List of expenese");
