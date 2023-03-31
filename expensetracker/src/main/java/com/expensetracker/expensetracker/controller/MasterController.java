@@ -21,7 +21,7 @@ public class MasterController {
 		List<Expense> expense = expenseService.findall();
 		mav.addObject("expenses", expenses);
 		return mav;
-
+/* Neeeraj*/
 
 		
 		/*ModelAndView mav = new ModelAndView("home");
